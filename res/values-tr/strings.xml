@@ -180,4 +180,13 @@
     <string name="app_profile_conflict_toast">Cihaz bellek özelliği devre dışı — Uygulama profilleriyle ile uyumsuz.</string>
     <string name="app_profile_conflict_summary">⚠ Uygulama profilleri etkinken kullanılamaz.</string>
     <string name="device_state_memory_section_title">Ses Cihazları Belleği</string>
+
+    <!-- Active audio output -->
+    <string name="audio_output_active_device">Aktif ses çıkışı</string>
+    <string name="audio_output_speaker">Hoparlör</string>
+    <string name="audio_output_wired">Kablolu kulaklık</string>
+    <string name="audio_output_bluetooth">Bluetooth</string>
+    <string name="audio_output_usb">USB ses</string>
+    <string name="audio_output_unknown">Ses cihazı</string>
+
 </resources>
